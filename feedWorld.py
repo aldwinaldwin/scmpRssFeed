@@ -19,6 +19,7 @@ while True:
             print(entry.title)
             print('------------------------------------------------------')
             print(entry.summary)
+            print('=> '+entry.link)
             print('------------------------------------------------------')
     sleep(60)
 
